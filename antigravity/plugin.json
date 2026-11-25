@@ -1,0 +1,11 @@
+{
+  "name": "codex-sub",
+  "displayName": "Codex Subagent",
+  "version": "0.2.8",
+  "description": "Delegate background coding, research, and code review tasks to Codex via MCP with automatic result delivery.",
+  "suggestedPrompts": [
+    "Delegate a refactoring task to Codex and review its changes when done",
+    "Ask Codex to review my uncommitted changes",
+    "Run two parallel Codex tasks in separate git worktrees"
+  ]
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+CLAUDE.md
+AGENTS.md
+!antigravity/AGENTS.md
+.claude/
+docs/
